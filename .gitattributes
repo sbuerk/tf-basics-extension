@@ -1,0 +1,7 @@
+/.* export-ignore
+.Build/ export-ignore
+/.ddev export-ignore
+/Build export-ignore
+/config export-ignore
+/Tests export-ignore
+/Makefile export-ignore
