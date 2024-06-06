@@ -183,8 +183,8 @@ ddev exec mkdir -p Build/phpunit \
 Either open the `Build/php-unit/*Tests.xml` files in a editor
 and adjust the paths to:
 
-* `UnitTests.xml` => `../../packages/*/Tests/Unit/`
-* `FunctionalTests.xml` => `../../packages/*/Tests/Functional/`
+* `UnitTests.xml` => `../../Tests/Unit/`
+* `FunctionalTests.xml` => `../../Tests/Functional/`
 
 or you could simply use following commands:
 
